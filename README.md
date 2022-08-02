@@ -19,6 +19,10 @@ THEN I am again presented with current and future conditions for that city
 
 Live Url: 
 
+https://wjimh314.github.io/weatherman/
+
 Github Url:
 
-Screenshot:
+https://github.com/wjimh314/weatherman
+
+Screenshot: 
